@@ -9,7 +9,7 @@ An exercise can have:
 
 ## Tool to be used
 
-You have to use Nativebase figma file https://www.figma.com/@nativebase as a base design pattern.
+You have to use Nativebase figma file [https://www.figma.com/@nativebase](https://www.figma.com/community/file/1098591432716522150) as a base design pattern.
 
 ## Extra points
 
