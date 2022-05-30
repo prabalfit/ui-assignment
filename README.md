@@ -1,4 +1,4 @@
-# ui-assignment
+# UI/UX-assignment
 
 Create a mobile view for users where they can see a list of exercises assigned to them.
 An exercise can have
