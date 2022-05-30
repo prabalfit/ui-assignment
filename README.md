@@ -3,9 +3,9 @@
 Create a mobile view for users where they can see a list of exercises assigned to them.
 An exercise can have
 
-- A image
-- number of repetitions to be performed
-- number of sets.
+- An image.
+- Number of repetitions to be performed.
+- Number of sets to be performed.
 
 ## Tool to be used
 
